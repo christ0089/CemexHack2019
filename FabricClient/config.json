@@ -1,0 +1,10 @@
+{
+    "connection_file": "channel1_HACK2019_profile.json",
+    "appAdmin": "techlinkApp-admin",
+    "appAdminSecret": "techlinkApp-adminpw",
+    "orgMSPID": "org1msp",
+    "caName": "https://173.193.79.200:30601",
+    "userName": "insuranceUser",
+    "gatewayDiscovery": { "enabled": true, "asLocalhost": false }
+  }
+  
